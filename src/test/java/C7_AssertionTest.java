@@ -45,7 +45,7 @@ public class C7_AssertionTest {
         Assert.assertTrue(driver.findElement(By.xpath("(//img[@class='logo'])[1]")).isDisplayed());
     }
 
-    // Francais LinkTest => Fransizca Linkin görüntülendiğini test edin
+    // Canada LinkTest => Canada (Fransizca) Linkin görüntülendiğini test edin
     @Test
     public void linkTest() {
         Assert.assertTrue(driver.findElement(By.xpath("(//a[@class='canada-link'])[1]")).isDisplayed());

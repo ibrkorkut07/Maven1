@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="068be8f2-9133-449a-98f2-308eeff65f22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/C7_AssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C8_YoutubeAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C9_WrongemailTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/C7_AssertionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/C7_AssertionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,51 +40,51 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C7_AssertionTest">
-    <configuration name="C7_AssertionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C9_WrongemailTest.test">
+    <configuration name="C8_YoutubeAssertions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
+      <option name="MAIN_CLASS_NAME" value="C8_YoutubeAssertions" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C7_AssertionTest.linkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C8_YoutubeAssertions.imageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
-      <option name="METHOD_NAME" value="linkTest" />
+      <option name="MAIN_CLASS_NAME" value="C8_YoutubeAssertions" />
+      <option name="METHOD_NAME" value="imageTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C7_AssertionTest.logoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C8_YoutubeAssertions.titleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
-      <option name="METHOD_NAME" value="logoTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C7_AssertionTest.titleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Maven1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
+      <option name="MAIN_CLASS_NAME" value="C8_YoutubeAssertions" />
       <option name="METHOD_NAME" value="titleTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C7_AssertionTest.urlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C8_YoutubeAssertions.wrongTitleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
-      <option name="METHOD_NAME" value="urlTest" />
+      <option name="MAIN_CLASS_NAME" value="C8_YoutubeAssertions" />
+      <option name="METHOD_NAME" value="wrongTitleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C9_WrongemailTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C9_WrongemailTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C7_AssertionTest" />
-        <item itemvalue="JUnit.C7_AssertionTest.linkTest" />
-        <item itemvalue="JUnit.C7_AssertionTest.logoTest" />
-        <item itemvalue="JUnit.C7_AssertionTest.titleTest" />
-        <item itemvalue="JUnit.C7_AssertionTest.urlTest" />
+        <item itemvalue="JUnit.C9_WrongemailTest.test" />
+        <item itemvalue="JUnit.C8_YoutubeAssertions" />
+        <item itemvalue="JUnit.C8_YoutubeAssertions.titleTest" />
+        <item itemvalue="JUnit.C8_YoutubeAssertions.imageTest" />
+        <item itemvalue="JUnit.C8_YoutubeAssertions.wrongTitleTest" />
       </list>
     </recent_temporary>
   </component>
