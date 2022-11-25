@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="068be8f2-9133-449a-98f2-308eeff65f22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/C3_AddChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C4_FirstTestMethodWithJUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C5_CheckBoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/C6_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C7_AssertionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,48 +38,51 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.C6_RadioButton.radioButtonTest">
-    <configuration name="C3_AddChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C3_AddChart" />
-      <module name="Maven1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C5_CheckBoxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.C7_AssertionTest">
+    <configuration name="C7_AssertionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C5_CheckBoxTest" />
+      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C5_CheckBoxTest.checkbox1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C7_AssertionTest.linkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C5_CheckBoxTest" />
-      <option name="METHOD_NAME" value="checkbox1Test" />
+      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
+      <option name="METHOD_NAME" value="linkTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C5_CheckBoxTest.checkbox2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C7_AssertionTest.logoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C5_CheckBoxTest" />
-      <option name="METHOD_NAME" value="checkbox2Test" />
+      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
+      <option name="METHOD_NAME" value="logoTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C6_RadioButton.radioButtonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C7_AssertionTest.titleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Maven1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="C6_RadioButton" />
-      <option name="METHOD_NAME" value="radioButtonTest" />
+      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
+      <option name="METHOD_NAME" value="titleTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C7_AssertionTest.urlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C7_AssertionTest" />
+      <option name="METHOD_NAME" value="urlTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.C6_RadioButton.radioButtonTest" />
-        <item itemvalue="JUnit.C5_CheckBoxTest" />
-        <item itemvalue="JUnit.C5_CheckBoxTest.checkbox1Test" />
-        <item itemvalue="JUnit.C5_CheckBoxTest.checkbox2Test" />
-        <item itemvalue="Application.C3_AddChart" />
+        <item itemvalue="JUnit.C7_AssertionTest" />
+        <item itemvalue="JUnit.C7_AssertionTest.linkTest" />
+        <item itemvalue="JUnit.C7_AssertionTest.logoTest" />
+        <item itemvalue="JUnit.C7_AssertionTest.titleTest" />
+        <item itemvalue="JUnit.C7_AssertionTest.urlTest" />
       </list>
     </recent_temporary>
   </component>
